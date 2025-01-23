@@ -1,0 +1,23 @@
+# criar ambiente virtual
+py -3 -m venv .venv
+
+# ativar ambiente virtual
+.venv\Scripts\activate
+
+# instalar Flask
+pip install Flask
+
+# instalar flask_cors
+pip install -U flask-cors
+
+# instalar flaskext-mysql
+pip install flask-mysql
+
+# instalar pymysql
+pip install PyMySQL
+
+# instalação adicional (se necessário)
+pip install cryptography
+
+### Link do Postman ###
+https://web.postman.co/workspace/My-Workspace~314e4255-e4f7-48da-8553-9ee3a81ece8d/overview
