@@ -20,4 +20,4 @@ pip install PyMySQL
 pip install cryptography
 
 ### Link do Postman ###
-https://web.postman.co/workspace/My-Workspace~314e4255-e4f7-48da-8553-9ee3a81ece8d/overview
+https://postman-testes-ic.postman.co/workspace/postman-testes-ic-Workspace~85a2b653-918e-48c0-9899-3345d4b17c13/collection/41481195-2d259228-34de-49d0-a22a-4c86cdc92165?action=share&creator=41481195
