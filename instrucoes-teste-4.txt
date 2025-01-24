@@ -1,3 +1,4 @@
+### INSTALACOES DE BIBLIOTECAS ###
 # criar ambiente virtual
 py -3 -m venv .venv
 
@@ -21,3 +22,7 @@ pip install cryptography
 
 ### Link do Postman ###
 https://postman-testes-ic.postman.co/workspace/postman-testes-ic-Workspace~85a2b653-918e-48c0-9899-3345d4b17c13/collection/41481195-2d259228-34de-49d0-a22a-4c86cdc92165?action=share&creator=41481195
+
+### EXECUCAO ###
+Vue: npm run dev
+API: python src/app.py
